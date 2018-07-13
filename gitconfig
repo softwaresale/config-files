@@ -1,0 +1,9 @@
+[user]
+	email = softwaresale01@gmail.com 
+	name = Charlie Sale
+
+[sendemail]
+	smtpEncryption = tls
+	smtpServer = smtp.gmail.com
+	smtpUser = softwaresale01@gmail.com
+	smtpServerPort = 587
